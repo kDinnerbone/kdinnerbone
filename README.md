@@ -31,34 +31,7 @@
 
 <h3 align="left">Languages And Tools: </h3>
 <p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,html,css,javascript" style="max-width: 100%;" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript" style="max-width: 100%;" />
 </p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kdinnerbone&show_icons=true&locale=en&layout=compact" alt="kdinnerbone" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kdinnerbone&show_icons=true&locale=en" alt="kdinnerbone" />
-</p>
-
-<!--
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kdinnerbone&" alt="kdinnerbone" />
-</p>
--->
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kdinnerbone" alt="kdinnerbone" />
-  </a> 
-</p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kDinnerbone/kDinnerbone/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kDinnerbone/kDinnerbone/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kDinnerbone/kDinnerbone/output/github-contribution-grid-snake.svg">
-</picture>
-
 
 <img src="/File/Ralsei.png">
