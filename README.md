@@ -13,11 +13,11 @@
 <a href="mailto:kdinnerbone@163.com" target="_blank">
   <img src="https://img.shields.io/badge/%20-163Mail-d12020?style=flat&logo=maildotru&logoColor=white&rounded=true" alt="163Mail">
 </a>
-<a href="https://twitter.com/kdinnerbone_" target="_blank">
+<a href="https://twitter.com/kDinnerbone_" target="_blank">
   <img src="https://img.shields.io/badge/%20-Twitter-000000?style=flat&logo=x&logoColor=white&rounded=true" alt="Twitter">
 </a>
-<a href="https://t.me/kdinnerbone" target="_blank">
-  <img src="https://img.shields.io/badge/%20-Telegram-009eeb?style=flat&logo=telegram&logoColor=white&rounded=true" alt="Telegram">
+<a href="https://twitter.com/kDinnerboneS_" target="_blank">
+  <img src="https://img.shields.io/badge/%20-Twitter-000000?style=flat&logo=x&logoColor=white&rounded=true" alt="Twitter">
 </a>
 <a href="https://space.bilibili.com/1535075136" target="_blank">
   <img src="https://img.shields.io/badge/%20-Bilibili-fe76aa?style=flat&logo=bilibili&logoColor=white&rounded=true" alt="Bilibili">
