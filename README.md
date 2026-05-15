@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect With Me: </h3>
 <!-- Mail -->
-<a>
+<div>
   <a href="mailto:kdinnerbone@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/%20-Gmail-EA4335?style=flat&logo=gmail&logoColor=white&rounded=true" alt="Gmail">
   </a>
@@ -21,10 +21,12 @@
   <a href="mailto:kdinnerbone@qq.com" target="_blank">
     <img src="https://img.shields.io/badge/%20-QqMail-12B7F5?style=flat&logo=qq&logoColor=white&rounded=true" alt="QqMail">
   </a>
-</a>
+</div>
+
+<br>
 
 <!-- Social -->
-<a>
+<div>
   <a href="https://twitter.com/kdinnerbone_" target="_blank">
     <img src="https://img.shields.io/badge/%20-Twitter-000000?style=flat&logo=x&logoColor=white&rounded=true" alt="Twitter">
   </a>
@@ -52,20 +54,24 @@
   <a href="https://bsky.app/profile/kdinnerbone.bsky.social" target="_blank">
     <img src="https://img.shields.io/badge/%20-Bluesky-0285FF?style=flat&logo=bluesky&logoColor=white&rounded=true" alt="Bluesky">
   </a>
-</a>
+</div>
+
+<br>
 
 <!-- Chat -->
-<a>
+<div>
   <a href="https://u.wechat.com/MJucRoqv4YDS-ocXVzwdrMA?s=3" target="_blank">
     <img src="https://img.shields.io/badge/%20-WeChat-07C160?style=flat&logo=wechat&logoColor=white&rounded=true" alt="WeChat">
   </a>
   <a href="https://qm.qq.com/q/RdBPS3Xoau" target="_blank">
     <img src="https://img.shields.io/badge/%20-QQ-12B7F5?style=flat&logo=qq&logoColor=white&rounded=true" alt="QQ">
   </a>
-</a>
+</div>
+
+<br>
 
 <!-- Video & Streaming -->
-<a>
+<div>
   <a href="https://www.youtube.com/@kDinnerbone" target="_blank">
     <img src="https://img.shields.io/badge/%20-YouTube-FF0000?style=flat&logo=youtube&logoColor=white&rounded=true" alt="YouTube">
   </a>
@@ -78,22 +84,26 @@
   <a href="https://m.bilibili.com/space/1535075136" target="_blank">
     <img src="https://img.shields.io/badge/%20-Bilibili-00A1D6?style=flat&logo=bilibili&logoColor=white&rounded=true" alt="Bilibili">
   </a>
-</a>
+</div>
+
+<br>
 
 <!-- Gaming -->
-<a>
+<div>
   <a href="https://www.xbox.com/play/user/VouiMuges0" target="_blank">
     <img src="https://img.shields.io/badge/%20-Xbox-107C10?style=flat&logo=xbox&logoColor=white&rounded=true" alt="Xbox">
   </a>
   <a href="https://www.xbox.com/play/user/kDinnerbone" target="_blank">
     <img src="https://img.shields.io/badge/%20-Xbox-107C10?style=flat&logo=xbox&logoColor=white&rounded=true" alt="Xbox">
   </a>
-</a>
+</div>
+
+<br>
 
 <!-- Art & Creator -->
-<a>
+<div>
   <a href="https://www.patreon.com/kDinnerbone" target="_blank">
-    <img src="https://img.shields.io/badge/%20-Patreon-000000?style=flat&logo=patreon&logoColor=white&rounded=true" alt="Patreon">
+    <img src="https://img.shields.io/badge/%20-Patreon-FF424D?style=flat&logo=patreon&logoColor=white&rounded=true" alt="Patreon">
   </a>
   <a href="https://www.pixiv.net/users/110054235" target="_blank">
     <img src="https://img.shields.io/badge/%20-Pixiv-0096FA?style=flat&logo=pixiv&logoColor=white&rounded=true" alt="Pixiv">
@@ -107,7 +117,7 @@
   <a href="https://skeb.jp/@kDinnerbone_" target="_blank">
     <img src="https://img.shields.io/badge/%20-Skeb-31B096?style=flat&logo=skeb&logoColor=white&rounded=true" alt="Skeb">
   </a>
-</a>
+</div>
 
 <h3 align="left">Languages And Tools: </h3>
 <p align="left">
