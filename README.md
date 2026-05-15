@@ -7,8 +7,6 @@
 <img src="/File/Tenna.gif">
 
 <h3 align="left">Connect With Me: </h3>
-HTML
-<!-- Mail -->
 <div>
   <a href="mailto:kdinnerbone@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/%20-Gmail-EA4335?style=flat&logo=gmail&logoColor=white&rounded=true" alt="Gmail">
@@ -23,10 +21,7 @@ HTML
     <img src="https://img.shields.io/badge/%20-QqMail-12B7F5?style=flat&logo=qq&logoColor=white&rounded=true" alt="QqMail">
   </a>
 </div>
-
 <br>
-
-<!-- Social -->
 <div>
   <a href="https://twitter.com/kdinnerbone_" target="_blank">
     <img src="https://img.shields.io/badge/%20-Twitter-000000?style=flat&logo=x&logoColor=white&rounded=true" alt="Twitter">
@@ -57,10 +52,7 @@ HTML
     <img src="https://img.shields.io/badge/%20-Bluesky-0285FF?style=flat&logo=bluesky&logoColor=white&rounded=true" alt="Bluesky">
   </a>
 </div>
-
 <br>
-
-<!-- Chat -->
 <div>
   <a href="https://u.wechat.com/MJucRoqv4YDS-ocXVzwdrMA?s=3" target="_blank">
     <img src="https://img.shields.io/badge/%20-WeChat-07C160?style=flat&logo=wechat&logoColor=white&rounded=true" alt="WeChat">
@@ -69,10 +61,7 @@ HTML
     <img src="https://img.shields.io/badge/%20-QQ-12B7F5?style=flat&logo=qq&logoColor=white&rounded=true" alt="QQ">
   </a>
 </div>
-
 <br>
-
-<!-- Video & Streaming -->
 <div>
   <a href="https://www.youtube.com/@kDinnerbone" target="_blank">
     <img src="https://img.shields.io/badge/%20-YouTube-FF0000?style=flat&logo=youtube&logoColor=white&rounded=true" alt="YouTube">
@@ -87,10 +76,7 @@ HTML
     <img src="https://img.shields.io/badge/%20-Bilibili-00A1D6?style=flat&logo=bilibili&logoColor=white&rounded=true" alt="Bilibili">
   </a>
 </div>
-
 <br>
-
-<!-- Gaming -->
 <div>
   <a href="https://www.xbox.com/play/user/VouiMuges0" target="_blank">
     <img src="https://img.shields.io/badge/%20-Xbox-107C10?style=flat&logo=xbox&logoColor=white&rounded=true" alt="Xbox">
@@ -99,10 +85,7 @@ HTML
     <img src="https://img.shields.io/badge/%20-Xbox-107C10?style=flat&logo=xbox&logoColor=white&rounded=true" alt="Xbox">
   </a>
 </div>
-
 <br>
-
-<!-- Art & Creator -->
 <div>
   <a href="https://www.patreon.com/kDinnerbone" target="_blank">
     <img src="https://img.shields.io/badge/%20-Patreon-FF424D?style=flat&logo=patreon&logoColor=white&rounded=true" alt="Patreon">
