@@ -27,7 +27,7 @@
 <br>
 
 <div>
-<a href="https://t.me/kdinnerbone" target="_blank"><img src="https://img.shields.io/badge/%20-Telegram-#2FA6E1?style=flat&logo=telegram&logoColor=white&rounded=true" alt="Telegram" align="center" style="vertical-align:middle;"></a>
+<a href="https://t.me/kdinnerbone" target="_blank"><img src="https://img.shields.io/badge/%20-Telegram-2FA6E1?style=flat&logo=telegram&logoColor=white&rounded=true" alt="Telegram" align="center" style="vertical-align:middle;"></a>
 <a href="https://u.wechat.com/MJucRoqv4YDS-ocXVzwdrMA?s=3" target="_blank"><img src="https://img.shields.io/badge/%20-WeChat-07C160?style=flat&logo=wechat&logoColor=white&rounded=true" alt="WeChat" align="center" style="vertical-align:middle;"></a>
 <a href="https://qm.qq.com/q/RdBPS3Xoau" target="_blank"><img src="https://img.shields.io/badge/%20-QQ-12B7F5?style=flat&logo=qq&logoColor=white&rounded=true" alt="QQ" align="center" style="vertical-align:middle;"></a>
 </div>
