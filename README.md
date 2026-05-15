@@ -7,6 +7,7 @@
 <img src="/File/Tenna.gif">
 
 <h3 align="left">Connect With Me: </h3>
+HTML
 <!-- Mail -->
 <div>
   <a href="mailto:kdinnerbone@gmail.com" target="_blank">
@@ -42,6 +43,7 @@
   <a href="https://www.facebook.com/kdinnerbone" target="_blank">
     <img src="https://img.shields.io/badge/%20-Facebook-1877F2?style=flat&logo=facebook&logoColor=white&rounded=true" alt="Facebook">
   </a>
+  <br>
   <a href="https://www.instagram.com/kdinnerbone/" target="_blank">
     <img src="https://img.shields.io/badge/%20-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&rounded=true" alt="Instagram">
   </a>
