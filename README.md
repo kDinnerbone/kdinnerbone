@@ -27,6 +27,7 @@
 <br>
 
 <div>
+<a href="https://t.me/kdinnerbone" target="_blank"><img src="https://img.shields.io/badge/%20-Telegram-#2FA6E1?style=flat&logo=telegram&logoColor=white&rounded=true" alt="Telegram" align="center" style="vertical-align:middle;"></a>
 <a href="https://u.wechat.com/MJucRoqv4YDS-ocXVzwdrMA?s=3" target="_blank"><img src="https://img.shields.io/badge/%20-WeChat-07C160?style=flat&logo=wechat&logoColor=white&rounded=true" alt="WeChat" align="center" style="vertical-align:middle;"></a>
 <a href="https://qm.qq.com/q/RdBPS3Xoau" target="_blank"><img src="https://img.shields.io/badge/%20-QQ-12B7F5?style=flat&logo=qq&logoColor=white&rounded=true" alt="QQ" align="center" style="vertical-align:middle;"></a>
 </div>
@@ -35,8 +36,6 @@
 
 <div>
 <a href="https://www.youtube.com/@kDinnerbone" target="_blank"><img src="https://img.shields.io/badge/%20-YouTube-FF0000?style=flat&logo=youtube&logoColor=white&rounded=true" alt="YouTube" align="center" style="vertical-align:middle;"></a>
-<a href="https://v.kuaishou.com/f/Yf51D8r9e" target="_blank"><img src="https://img.shields.io/badge/%20-快手-FF4906?style=flat&logo=kuaishou&logoColor=white&rounded=true" alt="快手" align="center" style="vertical-align:middle;"></a>
-<a href="https://v.douyin.com/uWJ9ksTAu80/" target="_blank"><img src="https://img.shields.io/badge/%20-抖音-000000?style=flat&logo=tiktok&logoColor=white&rounded=true" alt="抖音" align="center" style="vertical-align:middle;"></a>
 <a href="https://m.bilibili.com/space/1535075136" target="_blank"><img src="https://img.shields.io/badge/%20-Bilibili-00A1D6?style=flat&logo=bilibili&logoColor=white&rounded=true" alt="Bilibili" align="center" style="vertical-align:middle;"></a>
 </div>
 
@@ -52,7 +51,7 @@
 <div>
 <a href="https://www.pixiv.net/users/110054235" target="_blank"><img src="https://img.shields.io/badge/%20-Pixiv-0096FA?style=flat&logo=pixiv&logoColor=white&rounded=true" alt="Pixiv" align="center" style="vertical-align:middle;"></a>
 <a href="https://kdinnerbone.fanbox.cc" target="_blank"><img src="https://img.shields.io/badge/%20-Fanbox-F9F18C?style=flat&logo=pixivfanbox&logoColor=white&rounded=true" alt="Fanbox" align="center" style="vertical-align:middle;"></a>
-<a href="https://www.patreon.com/kDinnerbone" target="_blank"><img src="https://img.shields.io/badge/%20-Patreon-FF424D?style=flat&logo=patreon&logoColor=white&rounded=true" alt="Patreon" align="center" style="vertical-align:middle;"></a>
+<a href="https://www.patreon.com/kDinnerbone" target="_blank"><img src="https://img.shields.io/badge/%20-Patreon-000000?style=flat&logo=patreon&logoColor=white&rounded=true" alt="Patreon" align="center" style="vertical-align:middle;"></a>
 <a href="https://kdinnerbone.booth.pm/" target="_blank"><img src="https://img.shields.io/badge/%20-Booth-FC4D50?style=flat&logo=booth&logoColor=white&rounded=true" alt="Booth" align="center" style="vertical-align:middle;"></a>
 <a href="https://skeb.jp/@kDinnerbone_" target="_blank"><img src="https://img.shields.io/badge/%20-Skeb-31B096?style=flat&logo=skeb&logoColor=white&rounded=true" alt="Skeb" align="center" style="vertical-align:middle;"></a>
 </div>
