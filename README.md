@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/%20-Gmail-EA4335?style=flat&logo=gmail&logoColor=white&rounded=true" alt="Gmail">
 </a>
 <a href="mailto:kdinnerbone@outlook.com" target="_blank">
-  <img src="https://img.shields.io/badge/%20-Outlook-0078D4?style=flat&logo=outlook&logoColor=white&rounded=true" alt="Outlook">
+  <img src="https://img.shields.io/badge/%20-Outlook-0078D4?style=flat&logo=mail&logoColor=white&rounded=true" alt="Outlook">
 </a>
 <a href="https://twitter.com/kdinnerbone_" target="_blank">
   <img src="https://img.shields.io/badge/%20-Twitter-000000?style=flat&logo=x&logoColor=white&rounded=true" alt="Twitter">
@@ -60,7 +60,7 @@
   <img src="https://img.shields.io/badge/%20-Booth-FC4D50?style=flat&logo=booth&logoColor=white&rounded=true" alt="Booth">
 </a>
 <a href="https://skeb.jp/@kDinnerbone_" target="_blank">
-  <img src="https://img.shields.io/badge/%20-Skeb-FF69B4?style=flat&logo=sketch&logoColor=white&rounded=true" alt="Skeb">
+  <img src="https://img.shields.io/badge/%20-Skeb-31B096?style=flat&logo=skeb&logoColor=white&rounded=true" alt="Skeb">
 </a>
 <a href="https://bsky.app/profile/kdinnerbone.bsky.social" target="_blank">
   <img src="https://img.shields.io/badge/%20-Bluesky-0285FF?style=flat&logo=bluesky&logoColor=white&rounded=true" alt="Bluesky">
