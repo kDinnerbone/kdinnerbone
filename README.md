@@ -81,14 +81,14 @@
 </div>
 <br>
 <div>
-  <a href="https://www.patreon.com/kDinnerbone" target="_blank">
-    <img src="https://img.shields.io/badge/%20-Patreon-FF424D?style=flat&logo=patreon&logoColor=white&rounded=true" alt="Patreon">
-  </a>
   <a href="https://www.pixiv.net/users/110054235" target="_blank">
     <img src="https://img.shields.io/badge/%20-Pixiv-0096FA?style=flat&logo=pixiv&logoColor=white&rounded=true" alt="Pixiv">
   </a>
-  <a href="https://kdinnerbone.fant.cc" target="_blank">
+  <a href="https://kdinnerbone.fanbox.cc" target="_blank">
     <img src="https://img.shields.io/badge/%20-Fanbox-F9F18C?style=flat&logo=pixivfanbox&logoColor=white&rounded=true" alt="Fanbox">
+  </a>
+  <a href="https://www.patreon.com/kDinnerbone" target="_blank">
+    <img src="https://img.shields.io/badge/%20-Patreon-FF424D?style=flat&logo=patreon&logoColor=white&rounded=true" alt="Patreon">
   </a>
   <a href="https://kdinnerbone.booth.pm/" target="_blank">
     <img src="https://img.shields.io/badge/%20-Booth-FC4D50?style=flat&logo=booth&logoColor=white&rounded=true" alt="Booth">
