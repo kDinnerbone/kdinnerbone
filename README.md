@@ -8,23 +8,17 @@
 
 <h3 align="left">Connect With Me: </h3>
 
-<a href="mailto:邮箱" target="_blank">
-  <img src="https://img.shields.io/badge/%20-邮箱平台名称-平台图标16进制颜色?style=flat&logo=maildotru&logoColor=white&rounded=true" alt="邮箱平台名称">
-</a>
-<a href="链接" target="_blank">
-  <img src="https://img.shields.io/badge/%20-平台名称-平台图标16进制颜色?style=flat&logo=全小写字母平台名称&logoColor=white&rounded=true" alt="平台名称">
-</a>
 <a href="mailto:kdinnerbone@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/%20-Gmail-EA4335?style=flat&logo=gmail&logoColor=white&rounded=true" alt="Gmail">
 </a>
 <a href="mailto:kdinnerbone@outlook.com" target="_blank">
-  <img src="https://img.shields.io/badge/%20-Outlook-0078D4?style=flat&logo=microsoftoutlook&logoColor=white&rounded=true" alt="Outlook">
+  <img src="https://img.shields.io/badge/%20-Outlook-0078D4?style=flat&logo=outlook&logoColor=white&rounded=true" alt="Outlook">
 </a>
 <a href="https://twitter.com/kdinnerbone_" target="_blank">
-  <img src="https://img.shields.io/badge/%20-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&rounded=true" alt="Twitter">
+  <img src="https://img.shields.io/badge/%20-Twitter-000000?style=flat&logo=x&logoColor=white&rounded=true" alt="Twitter">
 </a>
 <a href="https://twitter.com/kdinnerbones_" target="_blank">
-  <img src="https://img.shields.io/badge/%20-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white&rounded=true" alt="Twitter">
+  <img src="https://img.shields.io/badge/%20-Twitter-000000?style=flat&logo=x&logoColor=white&rounded=true" alt="Twitter">
 </a>
 <a href="https://discord.com/users/1293777512635174915" target="_blank">
   <img src="https://img.shields.io/badge/%20-Discord-5865F2?style=flat&logo=discord&logoColor=white&rounded=true" alt="Discord">
@@ -60,7 +54,7 @@
   <img src="https://img.shields.io/badge/%20-Pixiv-0096FA?style=flat&logo=pixiv&logoColor=white&rounded=true" alt="Pixiv">
 </a>
 <a href="https://kdinnerbone.fant.cc" target="_blank">
-  <img src="https://img.shields.io/badge/%20-Fanbox-00AEEF?style=flat&logo=fanbox&logoColor=white&rounded=true" alt="Fanbox">
+  <img src="https://img.shields.io/badge/%20-Fanbox-00AEEF?style=flat&logo=pixivfanbox&logoColor=white&rounded=true" alt="Fanbox">
 </a>
 <a href="https://kdinnerbone.booth.pm/" target="_blank">
   <img src="https://img.shields.io/badge/%20-Booth-FC4D50?style=flat&logo=booth&logoColor=white&rounded=true" alt="Booth">
@@ -75,13 +69,13 @@
   <img src="https://img.shields.io/badge/%20-NeteaseMail-C20C0C?style=flat&logo=maildotru&logoColor=white&rounded=true" alt="NeteaseMail">
 </a>
 <a href="mailto:kdinnerbone@qq.com" target="_blank">
-  <img src="https://img.shields.io/badge/%20-QqMail-12B7F5?style=flat&logo=tencentqq&logoColor=white&rounded=true" alt="QqMail">
+  <img src="https://img.shields.io/badge/%20-QqMail-12B7F5?style=flat&logo=qq&logoColor=white&rounded=true" alt="QqMail">
 </a>
 <a href="https://u.wechat.com/MJucRoqv4YDS-ocXVzwdrMA?s=3" target="_blank">
   <img src="https://img.shields.io/badge/%20-WeChat-07C160?style=flat&logo=wechat&logoColor=white&rounded=true" alt="WeChat">
 </a>
 <a href="https://qm.qq.com/q/RdBPS3Xoau" target="_blank">
-  <img src="https://img.shields.io/badge/%20-QQ-12B7F5?style=flat&logo=tencentqq&logoColor=white&rounded=true" alt="QQ">
+  <img src="https://img.shields.io/badge/%20-QQ-12B7F5?style=flat&logo=qq&logoColor=white&rounded=true" alt="QQ">
 </a>
 <a href="https://v.kuaishou.com/f/Yf51D8r9e" target="_blank">
   <img src="https://img.shields.io/badge/%20-快手-FF4906?style=flat&logo=kuaishou&logoColor=white&rounded=true" alt="快手">
